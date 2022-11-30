@@ -2,9 +2,6 @@ import React, { useState } from 'react';
 import List from './List';
 import ShowOstoskori from './ShowOstoskori';
 
-
-
-
 function ShoppingList () {
 
     const [ostoskori, lisaaOstoskori] = useState(0);
@@ -44,8 +41,10 @@ function ShoppingList () {
     if (tila===0) {
     return (
     <div>
-        <div className="Ostoskori" >
+        <div className="Ostoskori">
             Ostoskori: {maara} tuotetta
+
+            
             <div><br></br> </div>
             <div className="Ostoskori2" onClick={NaytaOstoskori}>Näytä ostoskori</div>
         </div >
