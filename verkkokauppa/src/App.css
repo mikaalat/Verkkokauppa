@@ -3,7 +3,6 @@
 }
 
 .Kauppaan {
-
   text-align: center;
   position: fixed;
   top: 10%;
@@ -14,12 +13,11 @@
 }
 
 .Ostoskori {
-
     position: fixed;
     top: 0%;
     width: 100%;
-    border: 1px solid blue;
-    background-color: rgb(72, 55, 219);
+    border: 1px solid #1f3e41;
+    background-color: #152b2d;
     color: white;
     padding-left: 20px;
     padding-right: 20px;
@@ -27,22 +25,20 @@
   }
 
   .Taulukko2 {
-
     cursor: pointer;
     position: fixed;
     bottom: 0%;
     width: 100%;
-    border: 1px solid blue;
-    background-color: rgb(72, 55, 219);
-    color: white;
+    border: 1px solid #1f3e41;
+    background-color: #1c393b;
+    color: rgb(255, 255, 255);
     padding-left: 20px;
     padding-right: 20px;
     font-size: 20px;
   }
 
 .Ostoskori2 {
-  
-  background-color: rgb(72, 55, 219);
+  background-color: #1f3e41;
   cursor: pointer;
   }
 
@@ -63,7 +59,7 @@
 }
 
 .ShowOstoskori {
-  padding: 30px;
+  padding: 28px;
   font-size: 30px;
 }
 
@@ -126,8 +122,8 @@ body{
   position: fixed;
   top: 0%;
   width: 100%;
-  border: 1px solid blue;
-  background-color: rgb(72, 55, 219);
+  border: 1px solid #1f3e41;
+  background-color: #1c393b;
   color: white;
   padding-left: 20px;
   padding-right: 20px;
