@@ -1,0 +1,78 @@
+
+    [
+        {
+            "id":0,
+            "tuote": "Nokia 3110",
+            "kuvaus": "Nokia 3110 on Nokian vuonna 1997 julkaistu matkapuhelin. Sen muotoilusta vastasi yhtiön silloinen muotoilujohtaja Frank Nuovo",
+            "hinta": 100,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nokia_3110.jpg/1200px-Nokia_3110.jpg",
+            "kategoria": "Puhelin"
+        },
+        {
+            "id":1,
+            "tuote": "Iphone",
+            "kuvaus": "iPhone on sarja Applen valmistamia älypuhelimia, jotka käyttävät sen omaa iOS-käyttöjärjestelmää. Sarjan ensimmäinen puhelin julkaistiin vuonna 2007",
+            "hinta": 1000,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/IPhone_14_Pro_vector.svg/1200px-IPhone_14_Pro_vector.svg.png",
+            "kategoria": "Puhelin"
+        },
+        {
+            "id":2,
+            "tuote": "Samsung s22",
+            "kuvaus": "The Samsung Galaxy S22 is a series of Android-based smartphones designed, developed, manufactured, and marketed by Samsung Electronics as part of its Galaxy S series. Unveiled at Samsung's Galaxy Unpacked event on 9 February 2022.",
+            "hinta": 1500,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHJ5sxQLT0bHor6lPzd-oe3ncucCKUeLR63zIcicu3_Dsi3YYKvvAyC8q1fvGH-k5PrA&usqp=CAU",
+            "kategoria": "Puhelin"
+        },
+        {
+            "id":3,
+            "tuote": "Nokia 3310",
+            "kuvaus": "Klassikko on palannut! Nokia 3310 tarjoaa hieman uudistetun muotoilun ja nykyaikaistetun käyttöjärjestelmän. Matkapuhelimessa on musiikkisoitin, FM-radio, takakamera sekä matopeli.",
+            "hinta": 250,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nokia_3310_Blue_R7309170_%28retouch%29.png/800px-Nokia_3310_Blue_R7309170_%28retouch%29.png",
+            "kategoria": "Kaivuri"
+        },
+        {
+            "id":4,
+            "tuote": "OnePlus Nord 2T 5G",
+            "kuvaus": "OnePlus Nord 2T 5G -älypuhelimessa on 6,43",
+            "hinta": 210700,
+            "url": "https://static.elisa.com/v2/image/2tqybbhjs47b/2dleozboKLysBQC0bZ5JJ/Nord+2T+8%2F128GB+5G+Jade+Fog.jpeg?w=500&fm=jpg",
+            "kategoria": "Puhelin"
+        },
+        {
+            "id":5,
+            "tuote": "Hitachi ZX 140 W-5",
+            "kuvaus": "Pyörillä toimiva Aasian ihme, työmaa siirtymiset onnistuu tällä ihan itsestään.",
+            "hinta": 147000,
+            "url": "https://st.mascus.com/image/product/large/ac9d7688/hitachi-zx-140-w-3,5c14cd97.jpg",
+            "kategoria": "Laturit"
+        },
+        {
+            "id":6,
+            "tuote": "Volvo FH16",
+            "kuvaus": "Ruotsalaista kuorma-auto osaamista parhaimmillaan, ajaessa rekkamiehen lihas kasvaa ihan itsestään.",
+            "hinta": 180000,
+            "url": "https://www.volvotrucks.fi/content/dam/volvo/volvo-trucks/masters/press-releases/2020/feb/pr-2952-fh16/1860x1050-08A9524-FH16-with-machine-trailer.jpg",
+            "kategoria": "Rekka"
+        },
+        {
+            "id":7,
+            "tuote": "Scania P420",
+            "kuvaus": "Sisätilat ovat hienosti suunniteltu, toteutuksessa näkyy tämän päivän tehokkuus ja yli sadan vuoden kulttuuri.",
+            "hinta": 137800,
+            "url": "https://autovouhotus.fi/wp-content/uploads/2018/02/Scania_P420_vaijerilaite_manuaali_2006_001-1050x700.jpg",
+            "kategoria": "Rekka"
+        },
+        {
+            "id":8,
+            "tuote": "Sisu Polar Carrier",
+            "kuvaus": "Se on niin että Sisulla siitä selviää. Suomalaisten suunnittelema ja tekemä aparaatti.",
+            "hinta": 300000,
+            "url": "https://cdn.nettikone.com/live/2020/04/24/70e2d99a4695d621-large.jpg",
+            "kategoria": "Rekka"
+        }
+        
+    ]
+
+    

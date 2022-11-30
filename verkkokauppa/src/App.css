@@ -1,0 +1,160 @@
+.App {
+  text-align: center;
+}
+
+.Kauppaan {
+
+  text-align: center;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+}
+
+.Ostoskori {
+
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    border: 1px solid blue;
+    background-color: rgb(72, 55, 219);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+  }
+
+  .Taulukko2 {
+
+    cursor: pointer;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    border: 1px solid blue;
+    background-color: rgb(72, 55, 219);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+  }
+
+.Ostoskori2 {
+  
+  background-color: rgb(72, 55, 219);
+  cursor: pointer;
+  }
+
+.lisaa2 {
+  border-style: groove;
+  cursor: pointer;
+}
+.kuvaus {
+  cursor: pointer;
+}
+.lisaa1 {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.Taulukko {
+  margin: 0 auto;            
+}
+
+.ShowOstoskori {
+  padding: 30px;
+  font-size: 30px;
+}
+
+.Kuva {
+  max-width: 300px;
+  max-height: 200px;
+  
+}
+
+@media only screen and (max-width:820px){
+  .Kuva {
+    padding-left: 20px;
+    max-width: 150px;
+    max-height: 150px;
+  }
+  .kuvaus{
+    font-size: 10px;
+  }
+
+  .lisaa1 {
+    font-size: 25px;
+  }
+
+}
+
+@media only screen and (max-width:690px){
+  .kuvaus{
+    font-size: 10px;
+  }
+  .Kuva {
+    padding-left: 20px;
+    max-width: 120px;
+    max-height: 120px;
+  }
+  .lisaa1 {
+    font-size: 23px;
+  }
+}
+
+@media only screen and (max-width:520px){
+    
+body{
+      height: 80%;
+      width: 80%;
+}
+.Kuva {
+  padding-left: 20px;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.lisaa1 {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+
+.Ostoskori {
+
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  border: 1px solid blue;
+  background-color: rgb(72, 55, 219);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 13px;
+}
+
+.lisaa1 {
+  font-size: 13px;
+  cursor: pointer;
+}
+.kuvaus{
+  font-size: 6px;
+}
+
+.ShowOstoskori {
+  padding: 20px;
+  font-size: 20px;
+}
+
+.ShowOstoskori {
+  padding: 10px;
+  font-size: 13px;
+}
+
+.Taulukko2 {
+  font-size: 13px;
+}
+
+
+}
