@@ -12,7 +12,7 @@
             "id":1,
             "tuote": "iPhone 14 Pro Max",
             "kuvaus": "Apple iPhone 14 Pro Max -älypuhelimessa on häkellyttävä 6,7” OLED-kosketusnäyttö muuttuvalla 120 Hz virkistystaajuudella sekä tehokas 5G-yhteyksiä tukeva A16 Bionic -prosessori. Lisäksi laitteella on markkinoiden johtava IP68-vedenkestävyysluokitus.",
-            "hinta": 2000,
+            "hinta": 1999,
             "url": "https://res.cloudinary.com/dnaoyj/w_800,h_800,f_png,c_pad/Assets/play/Products/Phones/Apple/OPM1244_Apple_iPhone14ProMax5G_black_image1",
             "kategoria": "Puhelin"
         },
@@ -20,7 +20,7 @@
             "id":2,
             "tuote": "Samsung s22",
             "kuvaus": "Samsung Galaxy S22 5G -älypuhelin on täydellinen valinta jokapäiväiseen käyttöön. Se on varustettu sujuvalla ja mukautuvalla 120 Hz näytöllä, 8-ytimisellä Exynos 2200 -prosessorilla, pitkäkestoisella akulla ja tekoälyavusteisella kolmoiskameralla.",
-            "hinta": 2150,
+            "hinta": 999,
             "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHJ5sxQLT0bHor6lPzd-oe3ncucCKUeLR63zIcicu3_Dsi3YYKvvAyC8q1fvGH-k5PrA&usqp=CAU",
             "kategoria": "Puhelin"
         },
@@ -28,7 +28,7 @@
             "id":3,
             "tuote": "Nokia 3310",
             "kuvaus": "Klassikko on palannut! Nokia 3310 tarjoaa hieman uudistetun muotoilun ja nykyaikaistetun käyttöjärjestelmän. Matkapuhelimessa on musiikkisoitin, FM-radio, takakamera sekä matopeli.",
-            "hinta": 250,
+            "hinta": 129,
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nokia_3310_Blue_R7309170_%28retouch%29.png/800px-Nokia_3310_Blue_R7309170_%28retouch%29.png",
             "kategoria": "Puhelin"
         },
@@ -36,7 +36,7 @@
             "id":4,
             "tuote": "OnePlus Nord 2T 5G",
             "kuvaus": "OnePlus Nord 2T 5G -älypuhelimessa on 6,43 näyttö ja 5G-Yhteys",
-            "hinta": 1500,
+            "hinta": 999,
             "url": "https://static.elisa.com/v2/image/2tqybbhjs47b/2dleozboKLysBQC0bZ5JJ/Nord+2T+8%2F128GB+5G+Jade+Fog.jpeg?w=500&fm=jpg",
             "kategoria": "Puhelin"
         },
@@ -52,7 +52,7 @@
             "id":6,
             "tuote": "Nokia X30 5G",
             "kuvaus": "Nokia X30 5G -älypuhelin tarjoaa 5G-yhteyden, suuren 6,43 tuuman FHD+-näytön ja korkean 90 Hz virkistystaajuuden.",
-            "hinta": 600,
+            "hinta": 599,
             "url": "https://images.ctfassets.net/wcfotm6rrl7u/6LPZU89jtjd4vRdwvqUCTP/446d08ff00587e73b214cea0af763114/nokia-X30_5G-ice_white-front_back-int.png",
             "kategoria": "Puhelin"
         },
@@ -60,7 +60,7 @@
             "id":7,
             "tuote": "iPhone 13 Pro Max",
             "kuvaus": "iPhone 13 Pro Max. Kaikkien aikojen suurin ammattitason kamerajärjestelmän päivitys. Kolme täysin uutta kameraa tarjoavat vaikuttavat kuvat ja videot hämärässä, makrokuvauksen ja ProRes-videon.",
-            "hinta": 1390,
+            "hinta": 999,
             "url": "https://static.elisa.com/v2/image/2tqybbhjs47b/4az9tgMhx2e88mL5e9MRjh/iPhone+13+Pro+Max+1+Tt+5G+Vuorim%C3%A4nnynvihre%C3%A4.jpeg?w=500&fm=jpg",
             "kategoria": "Puhelin"
         },
@@ -74,24 +74,121 @@
         },
         {   "id":9,
             "tuote": "Nokia-pikalaturi 33 W",
-            "kuvaus": "Nokia-pikalaturi lataa laitteesi vikkelästi. 33 W:n laturissa on USB-C-latausportti, joka tukee huippunopeaa PowerDelivery 3.0 -pikalatausta. Pieni ja tyylikäs seinälaturi kulkee kevyesti mukanasi. Myyntipakkauksessa vain laturi, joten USB-C-latausjohto on ostettava erikseen.",
-            "hinta": 799,
+            "kuvaus": "Nokia-pikalaturi lataa laitteesi vikkelästi. 33 W:n laturissa on USB-C-latausportti, joka tukee huippunopeaa PowerDelivery 3.0 -pikalatausta. Pieni ja tyylikäs seinälaturi kulkee kevyesti mukanasi.",
+            "hinta": 29,
             "url": "https://res.cloudinary.com/dnaoyj/f_webp,w_1000,h_1000,c_pad/Assets/play/Products/Accessories/Nokia/OPM1325_Nokia_pikalaturi-33W_null_image1",
             "kategoria": "Laturit"
-
-
-
-
-        }
-      
-        
-        
-
-
-
-
-
-
+    },
+    {       "id":10,
+            "tuote": "Samsung Adapter USB-C",
+            "kuvaus": "Alkuperäinen Samsung 45W teholaturi on pikalatausominaisuudella varustettu laadukas ja kompakti laturi, joka kulkee helposti mukanasi mihin vain.",
+            "hinta": 39,
+            "url": "https://www.suojakalvotukku.fi/tuotekuvat/600x600/EP-T4510XBEGEU-3-2.jpg",
+            "kategoria": "Laturit"
+    }
+,
+        {   "id":11,
+            "tuote": "Spigen PF2004 langaton laturi",
+            "kuvaus": "Kätevä Spigen PF2004 PowerArc 15W -langaton laturi on Wireless Qi teknologialla varustettu laturi, joka tehokkaasti lataa laitteen kuin laitteen.",
+            "hinta": 29,
+            "url": "https://www.suojakalvotukku.fi/tuotekuvat/600x600/SPN1703BLK-Spigen-PF2004-PowerArc-Wireless-Charger-15W-Black-01.jpg",
+            "kategoria": "Laturit"
+    }
+    ,
+        {   "id":12,
+            "tuote": "Celly USB-matkalaturi",
+            "kuvaus": "Italialaisen Cellyn laadukas, tehokas ja kompakti verkkovirtalaturi neljällä USB-portilla. Kaksi porttia normaaliin lataukseen 1A ja vihreällä merkityt kaksi porttia TURBOlataukseen 2.4A.",
+            "hinta": 19,
+            "url": "https://www.suojakalvotukku.fi/tuotekuvat/600x600/Celly%20USB-matkalaturi%2C%204%20x%20USB%2C%202.4A%20ja%204.8A%2C%20valkoinen.png",
+            "kategoria": "Laturit"
+    }
+    ,
+    {   "id":13,
+        "tuote": "Suunto Spartan Magnetic kaapeli",
+        "kuvaus": "Suunto Spartan Magnetic lataus- ja datakaapeli.",
+        "hinta": 29,
+        "url": "https://www.suojakalvotukku.fi/tuotekuvat/600x600/SS023087000-1.jpg",
+        "kategoria": "Laturit"
+    },
+    {   "id":14,
+        "tuote": "Apple AirPods Max",
+        "kuvaus": "Apple AirPods Max pehmeät TPU-kuoret, Kirkas, on suunniteltu suojaamaan Apple AirPods Maxien korvakuppeja.",
+        "hinta": 9,
+        "url": "https://www.suojakalvotukku.fi/tuotekuvat/600x600/SUOJIS_20211027_098-3.jpg",
+        "kategoria": "Kuulokkeet"
+    }
+    ,
+    {   "id":15,
+        "tuote": "Jabra Elite 3 Langattomat napit",
+        "kuvaus": "Hienosäädä neljän mikrofonin tekniikkaa ja kaiutinelementtejä Jabra Sound+ -sovelluksessa. ",
+        "hinta": 39,
+        "url": "https://images.clasohlson.com/medias/sys_master/h35/h9a/68124204138526.jpg",
+        "kategoria": "Kuulokkeet"
+    }
+    ,
+    {   "id":16,
+        "tuote": "Marshall Major IV",
+        "kuvaus": "Langaton musiikkielämys neljännen sukupolven Marshall Major -kuulokkeilla, joissa on ikoninen rokahtava design. ",
+        "hinta": 79,
+        "url": "https://images.clasohlson.com/medias/sys_master/h74/h23/68114014306334.jpg",
+        "kategoria": "Kuulokkeet"
+    }
+    ,
+    {   "id":17,
+        "tuote": "JBL JR310 Lasten kuulokkeet",
+        "kuvaus": "JBL:n lasten kuulokkeet hienoissa väreissä. Mukana tulee tarroja, joilla kuulokkeista saa tehtyä omannäköiset.",
+        "hinta": 19,
+        "url": "https://images.clasohlson.com/medias/sys_master/hbf/hc9/68038423478302.jpg",
+        "kategoria": "Kuulokkeet"
+    }
+    ,
+    {   "id":18,
+        "tuote": "Langattomat napit Exibel",
+        "kuvaus": "Huippukevyet langattomat nappikuulokkeet, joissa on Bluetooth 5.0.",
+        "hinta": 9,
+        "url": "https://images.clasohlson.com/medias/sys_master/h12/h5d/68115075956766.jpg",
+        "kategoria": "Kuulokkeet"
+    }
+    ,
+    {   "id":19,
+        "tuote": "Huawei Honor 20",
+        "kuvaus": "Inkit Style -suojakuori on täydellinen valinta sinulle, kun haluat suojata puhelimesi arjen kolhuilta ja naarmuilta.",
+        "hinta": 19,
+        "url": "https://mobiilitukku.fi/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/h/u/huawei-honor-20-pro-inkit-style-suojakuori-musta-purple-iris.jpg",
+        "kategoria": "Suojakuoret"
+    }
+    ,
+    {   "id":20,
+        "tuote": "Apple iPhone 14 Pro Max",
+        "kuvaus": "Kuori suojaa puhelimesi reunat sekä takaosan persoonallisella tavalla pitäen puhelimesi profiilin silti ohuena.",
+        "hinta": 19,
+        "url": "https://mobiilitukku.fi/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-iphone-14-pro-inkit-style-suojakuori-musta-season-of-change_1.jpg",
+        "kategoria": "Suojakuoret"
+    }
+    ,
+    {   "id":21,
+        "tuote": "Samsung Galaxy A72 / A72",
+        "kuvaus": "Pehmeistä TPU-muovisista reunoista saat tukevan otteen puhelimestasi, eikä se pääse luiskahtamaan kädestäsi.",
+        "hinta": 19,
+        "url": "https://mobiilitukku.fi/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-a72-inkit-style-suojakuori-musta-black-jade.jpg",
+        "kategoria": "Suojakuoret"
+    }
+    ,
+    {   "id":22,
+        "tuote": "Nahkainen Puhelinlompakko",
+        "kuvaus": "Musta laadukkaasta ja kestävästä keinonahkasta tehty puhelinlompakko sulkeutuu magneeteilla ja toimii kuin käsilaukku.",
+        "hinta": 29,
+        "url": "https://mobiilitukku.fi/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/u/puhelimen_nahkainen_puhelinlompakko_musta_1.jpg",
+        "kategoria": "Suojakuoret"
+    }
+    ,
+    {   "id":23,
+        "tuote": "Vetoketjullinen Puhelinlompakko",
+        "kuvaus": "Koteloon mahtuu yleisesti ottaen kaikki alle 6,5 tuuman näytöllä varustetut puhelimet.",
+        "hinta": 29,
+        "url": "https://mobiilitukku.fi/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/V/e/Vetoketjullinen_Puhelinlompakko_Pinkki_1_1.jpg",
+        "kategoria": "Suojakuoret"
+    }
     ]
 
     
