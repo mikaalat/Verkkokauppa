@@ -25,7 +25,7 @@ if (kauppaan===0){
       Asiakaspalvelumme palvelee teitä vuorokauden jokaisena hetkenä, joten ethän epäröi ottaa yhteyttä mikäli tarvitset apua oikean tuotteen valinnassa tai ongelmatilanteissa.
       </p>
       
-      <p>Asiakaspalvelu: 123 45678910</p>  <br></br>
+      <p>Asiakaspalvelu: 123 45678910 auki 24/7!</p>  <br></br>
     <Button variant="outlined" color="primary" onClick={Kauppaan}>Kauppaan</Button>
     </div>
   );
