@@ -22,7 +22,10 @@ if (kauppaan===0){
 
       Tarjoamme markkinoiden nopeimman toimituksen, mikäli teet tilauksen arkipäivänä ennen klo 16. Tällöin saamme paketin liikkeelle jo samana päivänä! Valittavanasi on useita eri toimitusvaihtoehtoja ja joustavasti erilaisia maksuvaihtoehtoja.
 
-      Asiakaspalvelumme palvelee teitä vuorokauden jokaisena hetkenä, joten ethän epäröi ottaa yhteyttä mikäli tarvitset apua oikean tuotteen valinnassa tai ongelmatilanteissa.</p>  <br></br>
+      Asiakaspalvelumme palvelee teitä vuorokauden jokaisena hetkenä, joten ethän epäröi ottaa yhteyttä mikäli tarvitset apua oikean tuotteen valinnassa tai ongelmatilanteissa.
+      </p>
+      
+      <p>Asiakaspalvelu: 123 45678910</p>  <br></br>
     <Button variant="outlined" color="primary" onClick={Kauppaan}>Kauppaan</Button>
     </div>
   );
