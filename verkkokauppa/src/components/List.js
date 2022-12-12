@@ -68,10 +68,11 @@ function List({ LisaaKoriin }) {
     <div>
       <h1> </h1>
       <table className="Taulukko2">
-        <th onClick={Kaikki}>Puhelimet</th>
+        <th onClick={Puhelin}>Puhelimet</th>
         <th onClick={Laturit}>Laturit</th>
         <th onClick={Kuulokkeet}>Kuulokkeet</th>
         <th onClick={Suojakuoret}>Suojakuoret</th>
+        <th onClick={Kaikki}>Kaikki</th>
       </table>
       <table className="Taulukko">
         <th></th>
