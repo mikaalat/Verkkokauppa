@@ -72,7 +72,7 @@ function ShowShoppingList({ ostoskori, JatkaOstoksia, TyhjennaKori }) {
             <Button variant="outlined" color="primary" onClick={Tyhjenna}>Tyhjennä ostoskori</Button>
             <Tilaus ostoskori={ostoskori} summa={virheetonSumma} />
             <br></br>
-            <div> Lisätietoja antaa tarvittaessa <br></br> Asiakaspalvelu +35850050655 <br></br>
+            <div> Lisätietoja antaa tarvittaessa <br></br> Asiakaspalvelu +35850050655, joka on auki 24/7. <br></br>
                 
             </div>
         </div>

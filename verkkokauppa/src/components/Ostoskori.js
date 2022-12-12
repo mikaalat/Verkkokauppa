@@ -43,7 +43,6 @@ function ShoppingList () {
     <div>
         <div className="Ostoskori">
             Ostoskori: {maara} tuotetta
-
             
             <div><br></br> </div>
             <div className="Ostoskori2" onClick={NaytaOstoskori}>Näytä ostoskori</div>
