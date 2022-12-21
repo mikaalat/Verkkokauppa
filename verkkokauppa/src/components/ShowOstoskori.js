@@ -21,8 +21,8 @@ function ShowShoppingList({ ostoskori, JatkaOstoksia, TyhjennaKori }) {
         return (
 
             <tr key={i} >
-                <td><a target="_blank" href={items.url}><img className="Kuva" src={items.url} /></a></td>
-                <td className="ShowOstoskori">{items.tuote}</td>
+                <td><a target="_blank" href={items.image}><img className="Kuva" src={items.image} /></a></td>
+                <td className="ShowOstoskori">{items.tuotenimi}</td>
                 <td className="ShowOstoskori"> </td>
                 <td className="ShowOstoskori">{items.hinta.toLocaleString()}</td>
                 <td><RemoveCircleIcon fontSize="small" name={i} onClick={() => Poisto(i)} /></td>
